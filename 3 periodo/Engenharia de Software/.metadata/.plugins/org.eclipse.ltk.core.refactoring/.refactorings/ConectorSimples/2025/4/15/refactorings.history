@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.ufal.aracomp.cosmos.conectorsimples.ConectorSinples&apos; to &apos;ConectorSimples&apos;&#x0D;&#x0A;- Original project: &apos;ConectorSimples&apos;&#x0D;&#x0A;- Original element: &apos;br.ufal.aracomp.cosmos.conectorsimples.ConectorSinples&apos;&#x0D;&#x0A;- Renamed element: &apos;br.ufal.aracomp.cosmos.conectorsimples.ConectorSimples&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ConectorSinples&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.ufal.aracomp.cosmos.conectorsimples{ConectorSinples.java[ConectorSinples" matchStrategy="1" name="ConectorSimples" qualified="false" references="true" similarDeclarations="false" stamp="1744240301085" textual="false" version="1.0"/>
+</session>

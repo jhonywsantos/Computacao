@@ -1,0 +1,10 @@
+package br.ufal.aracomp.cosmos.main;
+
+public class Principal {
+    public static void main(String[] args) {
+    	
+    	IManager comEmp = ComponentFactory.createInstance();
+    	IEmprestimoOps
+    }
+
+}
